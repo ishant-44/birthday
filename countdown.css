@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  height: 100vh;
+  background: linear-gradient(135deg, #ffd1dc, #ffe6eb);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #5a2a3c;
+}
+
+.lock {
+  text-align: center;
+}
+
+.lock h1 {
+  font-size: 2.5rem;
+}
+
+.lock p {
+  margin: 15px 0;
+  font-size: 1.2rem;
+}
+
+#timer {
+  font-size: 1.8rem;
+  color: #c2185b;
+}
