@@ -1,6 +1,6 @@
 console.log(timer);
 
-const birthday = new Date("2027-01-08T00:00:00"); // CHANGE DATE
+const birthday = new Date("2026-01-08T00:00:00"); // CHANGE DATE
 const timer = document.getElementById("timer");
 
 function update() {
